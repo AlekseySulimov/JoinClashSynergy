@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Bootstrap.unity
     guid: 6e445730c069c014cb88770eb94c9913
   m_configObjects:
-    com.unity.addressableassets: {fileID: 11400000, guid: 5aef437373d34d343a55c21c1deb5ee1,
+    com.unity.addressableassets: {fileID: 11400000, guid: 842ca9c061a5e084a81fcbd24d9ddd83,
       type: 2}
