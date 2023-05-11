@@ -11,7 +11,7 @@ namespace Infrastructure
 
 		private void OnEnable()
 		{
-			_stateMachineSo.Enter<EnterGymStateSo>();
+			_stateMachineSo.Enter<BootstrapState>();
 		}
 	}
 }
