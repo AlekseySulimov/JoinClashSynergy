@@ -17,8 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: f816794133373df44802a3e4b3026fac
   m_SerializeEntries:
-  - m_GUID: 594f7b1cc727e774a8db8549c7e241e3
-    m_Address: Menu
+  - m_GUID: ff8752b88c444cd43beca6d71b43fb15
+    m_Address: Gym
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
